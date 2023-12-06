@@ -1,0 +1,20 @@
+.branch{
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    border: 1px solid #cfd8d8;
+    box-shadow: 2px 3px #d6e4e4;
+    width:1090px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.addBranch{
+    color: blue;
+    margin-top: 20px;
+}
+
+.subBranch{
+    color: red;
+    margin-left: 20px;
+}

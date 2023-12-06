@@ -1,0 +1,22 @@
+.teacher{
+    margin-top: 20px;
+    border: 1px solid #cfd8d8;
+    width:780px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    box-shadow: 2px 3px #d6e4e4;
+}
+
+.label{
+    margin-top: 15px;  
+}
+
+.delButton{
+    color: red;
+    margin-top:15px;
+}
+
+.updateButton{
+    margin-left: 15px;
+    color: blue;
+}

@@ -1,0 +1,21 @@
+.branch{
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom:20px;
+    border:1px solid #cfd8d8;
+    width: 1060px;
+    box-shadow: 2px 3px #d6e4e4;
+}
+
+.label{
+    margin-top: 20px;
+}
+.delButton{
+    color: red;
+}
+
+.updateButton{
+    color:blue;
+    margin: 10px;
+}

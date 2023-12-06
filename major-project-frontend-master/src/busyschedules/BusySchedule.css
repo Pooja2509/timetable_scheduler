@@ -1,0 +1,10 @@
+.busy{
+    margin-top: 20px;
+    border: 1px solid #cfd8d8;
+    width:700px;
+    padding: 15px;
+    box-shadow: 2px 3px #d6e4e4;
+}
+.buttonDelete{
+    color: red;
+}

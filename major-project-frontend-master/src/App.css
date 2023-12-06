@@ -1,0 +1,31 @@
+.App{
+
+}
+.navBar{
+    width: 100%;
+    height: 40px;
+    background-color: #ef5455;
+    /* position: fixed;
+    z-index: 10; */
+    display: inline-block;
+}
+.button{
+    height: 40px;
+    width:60px;
+    border:none;
+    color: #fad744;
+    margin-left: 15px;
+    background-color: #2b3252;
+}
+
+.logout{
+  margin-left: 15px;
+  height: 40px;
+  width:90px;
+  border:none;
+  color: #fad744;
+  margin-right: 15px;
+  background-color: #2b3252;
+  /* border-bottom-width: 5px; */
+}
+

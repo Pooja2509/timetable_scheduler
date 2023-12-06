@@ -1,0 +1,21 @@
+.unavailable{
+  border: 1px solid #cfd8d8;
+  text-align: left;
+  margin-top: 20px;
+  padding-left:20px;
+  padding-bottom: 20px;
+  width: 740px;
+  box-shadow: 2px 3px #d6e4e4;
+}
+.buttonAdd{
+    margin-top: 20px;
+    color: blue;
+}
+.buttonSub{
+    margin-left: 20px;
+    color: green;
+}
+.buttonAddSched{
+  margin-left:15px;
+  color:green;
+}

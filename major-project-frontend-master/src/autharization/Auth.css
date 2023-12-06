@@ -1,0 +1,24 @@
+.auth{
+    margin: auto;
+    margin-top: 10%;
+    width: 40%;
+    border: 1px solid #cfd8d8 ;
+    box-shadow: 2px 3px #d6e4e4 ;
+    text-align: center;
+}
+
+.input{
+    margin: 20px auto;
+}
+
+.input:focus{
+    color: blue;
+    box-shadow: 2px 3px lightblue;
+}
+
+.button{
+    margin-right: 20px;
+    margin-bottom: 20px;
+    color: blue;
+}
+

@@ -1,0 +1,20 @@
+.room{
+   text-align: left;
+   margin-top: 20px;
+   margin-left: 20px;
+   border: 1px solid #cfd8d8;
+   box-shadow: 2px 3px #d6e4e4;
+   width:950px;
+   padding-left: 20px;
+   padding-bottom: 20px;
+}
+
+.addRoom{
+    color: blue;
+    margin-top: 20px;
+}
+
+.subRoom{
+    color: green;
+    margin-left:20px;
+}

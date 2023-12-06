@@ -1,0 +1,18 @@
+.module{
+    border: 1px solid black;
+    
+    text-align: center;
+}
+
+.insideModule{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+.button{
+    width: 150px;
+    background-color: rgb(35, 62, 182);
+    height: 35px;
+    color: #ffa500;
+}

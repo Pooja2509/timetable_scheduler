@@ -1,0 +1,28 @@
+.subject{
+    margin-top: 20px;
+    width:1000px;
+    padding-left: 20px;
+    padding-top: 20px;
+    border:1px solid #cfd8d8;
+    box-shadow: 2px 3px #d6e4e4;
+    padding-bottom: 10px;
+}
+
+.addTeacher{
+    color:blue;
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+
+.teacher{
+    margin-bottom: 10px;
+}
+
+
+.label{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.delSub{
+    color:red;
+}

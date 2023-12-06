@@ -1,0 +1,24 @@
+.subject{
+    margin-top: 15px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    border:1px solid #cfd8d8;
+    width: 1035px;
+    box-shadow: 2px 3px #d6e4e4;
+}
+
+.addSubject{
+    color: blue;
+    margin-top: 20px;
+}
+
+.addSubjects{
+    color: blue;
+    margin-bottom: 15px;
+    margin-left:15px;
+}
+
+.subSubject{
+    color:red;
+    margin-top: 20px;
+}

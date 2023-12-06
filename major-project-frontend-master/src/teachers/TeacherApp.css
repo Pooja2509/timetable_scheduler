@@ -1,0 +1,18 @@
+.teacher{
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    border: 1px solid #cfd8d8;
+    width:820px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    box-shadow: 2px 3px #d6e4e4;
+}
+.subButton{
+    margin-left: 20px;
+    color: green;
+}
+.addButton{
+ margin-top: 20px;   
+ color:blue;
+}
